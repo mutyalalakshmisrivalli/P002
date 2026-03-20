@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/mutyalalakshmisrivalli/P002",
+  "homepage": "https://github.com/mutyalalakshmisrivalli/P002"
   "name": "p002",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.2.0",
