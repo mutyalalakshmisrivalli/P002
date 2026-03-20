@@ -2,7 +2,7 @@
   "name": "p002",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/mutyalalakshmisrivalli/P002",
+  "homepage": "https://mutyalalakshmisrivalli.github.io/P002",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.2.0",
