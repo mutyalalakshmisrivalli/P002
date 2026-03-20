@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "homepage": "https://mutyalalakshmisrivalli.github.io/P002",
   "type": "module",
-  "scripts": {
+ "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
