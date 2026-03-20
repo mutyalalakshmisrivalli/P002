@@ -1,8 +1,9 @@
 {
-  "homepage": "https://github.com/mutyalalakshmisrivalli/P002"
+  "homepage": "https://github.com/mutyalalakshmisrivalli/P002",
   "name": "p002",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://github.com/mutyalalakshmisrivalli/P002",
   "type": "module",
      "scripts": {
     "dev": "vite",
